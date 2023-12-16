@@ -2,10 +2,7 @@ import React from "react";
 
 import jongwan from "../assets/img/jongwan.jpg";
 
-const introText = {
-  title: "port developer",
-  desc: ["talent is", "found at the end of the", "effort"],
-};
+import { introText } from "../constants";
 
 const Intro = () => {
   return (
