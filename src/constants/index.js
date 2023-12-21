@@ -83,17 +83,6 @@ export const siteText = [
             "use stack : HTML5/CSS3, Scss Variable, vue",
         ],
     },
-    {
-        text: ["make", "site compliant with", "next.js"],
-        title: "넥스트를 이용한 사이트 제작",
-        code: "https://github.com/jjongwann/port2023-next",
-        view: "https://port2023-jongs-next.netlify.app/",
-        info: [
-            "site coding",
-            "production period : two days",
-            "use stack : HTML5/CSS3, Scss Variable, next.js",
-        ],
-    },
 ];
 
 export const portText = [
